@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bb1056c-5e7a-4ebe-b2ed-55ffb8f7ed6e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "manthan2325"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manthan2325/Bridgelabz_Employee_Payroll.git",
+    "accountId": "38059dd5-41fe-491e-a1a2-2db0ff30b6ad"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="4.457692887634176E-6" />
+      <entry key="MS500" value="0.19658517578503887" />
+      <entry key="S2" value="4.6595947503696795" />
+      <entry key="S5" value="15.18910744435126" />
+      <entry key="S10" value="30.464885112989535" />
+      <entry key="S30" value="70.46873871069234" />
+      <entry key="S60" value="107.25063893494327" />
+      <entry key="M2" value="156.9659569803053" />
+      <entry key="M5" value="227.81474410265952" />
+      <entry key="M10" value="267.2782451896689" />
+      <entry key="M15" value="283.15713632266056" />
+      <entry key="M30" value="300.66726504349174" />
+      <entry key="H1" value="310.09296132806134" />
+      <entry key="H2" value="314.9846246180309" />
+      <entry key="H4" value="317.47663187381175" />
+      <entry key="D1" value="319.57724218160087" />
+      <entry key="W1" value="319.93955199036185" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0005343230963186" />
+      <entry key="MS500" value="1.2215954247987169" />
+      <entry key="S2" value="1.6861043913449563" />
+      <entry key="S5" value="1.8606697203526914" />
+      <entry key="S10" value="1.9607439613589963" />
+      <entry key="S30" value="2.490746250363733" />
+      <entry key="S60" value="3.1180609835383435" />
+      <entry key="M2" value="4.015103120620655" />
+      <entry key="M5" value="5.317800952247756" />
+      <entry key="M10" value="6.040847771844264" />
+      <entry key="M15" value="6.330599339753279" />
+      <entry key="M30" value="6.649254782846819" />
+      <entry key="H1" value="6.820403483970206" />
+      <entry key="H2" value="6.909117920978524" />
+      <entry key="H4" value="6.954284442869969" />
+      <entry key="D1" value="6.992342306784975" />
+      <entry key="W1" value="6.998905098573281" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.1571699407436708" />
+      <entry key="MS500" value="1.015536332929928" />
+      <entry key="S2" value="6.1553571753985885" />
+      <entry key="S5" value="16.946231768445074" />
+      <entry key="S10" value="32.357242370420806" />
+      <entry key="S30" value="72.91224415164243" />
+      <entry key="S60" value="110.33180151834408" />
+      <entry key="M2" value="160.95399607821014" />
+      <entry key="M5" value="233.1170456878106" />
+      <entry key="M10" value="273.3100776482199" />
+      <entry key="M15" value="289.4813894484722" />
+      <entry key="M30" value="307.3131624596258" />
+      <entry key="H1" value="316.9116367363358" />
+      <entry key="H2" value="321.8928657108202" />
+      <entry key="H4" value="324.43047464798747" />
+      <entry key="D1" value="326.5695104199879" />
+      <entry key="W1" value="326.93844649648065" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3MNbf6n0QcQM8A5zuCFqzye92ib" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/manthan/Documents/Bridgelabz_Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/manthan/Documents/BL_SpringBootPratical/Bridgelabz_Employee_Payroll/src/main/java/org/example/Main.java",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb1056c-5e7a-4ebe-b2ed-55ffb8f7ed6e" name="Changes" comment="" />
+      <created>1795194074626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795194074626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -491,7 +491,7 @@ At the Service Layer stage, employee data is represented through Model objects, 
 
 ## 12. Author
 
-**Utakarsh Jain**
+**Manthan Hanchate**
 
 BridgeLabz Spring Boot Training Program
 
